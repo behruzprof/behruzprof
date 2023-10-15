@@ -63,6 +63,10 @@
     <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
       alt="react"/> 
   </a>
+  <a href="https://nextjs.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/-Next.js-white?style=for-the-badge&logo=nextjs&logoColor=orange"
+      alt="react"/> 
+  </a>
   <a href="https://redux.js.org" target="_blank"> 
     <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> 
   </a> 
@@ -70,8 +74,8 @@
     <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
       alt="webpack"/>
   </a>
-  <a href="https://webpack.js.org" target="_blank">
-    <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=vite&logoColor=black"
+  <a href="https://vitejs.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/-Vite-yellowgreen?style=for-the-badge&logo=vite&logoColor=white"
       alt="webpack"/>
   </a>
 </p>
@@ -86,24 +90,12 @@
     <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
       alt="express" />
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="mysql" />
+    <img src="https://img.shields.io/badge/-MySql-white?style=for-the-badge&logo=mysql&logoColor=black" alt="mysql" />
   </a>
 </p>
 
 <h3 align="center">Database</h3>
 <p align="center">
-  <a href="https://www.postgresql.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"
-      alt="postgresql"/> 
-  </a>
-  <a href="https://redis.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"
-      alt="redis"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"
-      alt="sqlite"/> 
-  </a>
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
       alt="mongodb"/> 
@@ -113,7 +105,7 @@
 <h3 align="center">Cloud & Hosting:</h3>
 <p align="center">
   <a href="https://vercel.com/" target="_blank">
-    <img  src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="vercel"/> 
+    <img  src="https://img.shields.io/badge/-vercel-black?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel"/> 
   </a>
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
@@ -125,12 +117,9 @@
 
 <h3 align="center">Testing</h3>
 <p align="center"> 
-  <a href="https://www.selenium.dev" target="_blank"> 
-    <img src="https://img.shields.io/badge/selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white"
+  <a href="https://jestjs.io/" target="_blank"> 
+    <img src="https://img.shields.io/badge/-Jest-white?style=for-the-badge&logo=jest&logoColor=black"
       alt="selenium" /> 
-  </a> 
-  <a href="https://junit.org/junit5/" target="_blank"> 
-    <img src="https://img.shields.io/badge/junit-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white" alt="junit5" /> 
   </a> 
 </p>
 
@@ -175,7 +164,7 @@
     <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="example"/>
   </a>
   <a href="mailto:whitestart06102005@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example"/>
+    <img src="https://img.shields.io/badge/-gmail-black?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
   </a>
 </p>
 
