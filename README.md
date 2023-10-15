@@ -59,9 +59,6 @@
   <a href="https://babeljs.io/" target="_blank">
     <img src="https://img.shields.io/badge/babel-F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=black" alt="babel"/> 
   </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/gatsbyjs-663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="nextjs" />
-  </a>
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
       alt="react"/> 
@@ -73,9 +70,9 @@
     <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
       alt="webpack"/>
   </a>
-  <a href="https://vitejs.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
-      alt="vitejs"/>
+  <a href="https://webpack.js.org" target="_blank">
+    <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=vite&logoColor=black"
+      alt="webpack"/>
   </a>
 </p>
 
